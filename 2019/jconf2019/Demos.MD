@@ -6,9 +6,9 @@ Go to your Repository
 * Authorization callback URL: http://192.168.99.1
 
 ---
-![](imagenes/demo01.PNG)
+![](imagenes/demo01.png)
 ***
-![](imagenes/demo02.PNG)
+![](imagenes/demo02.png)
 
 * Generate a secret
 ```
@@ -59,6 +59,6 @@ docker run -d \
 ### Login
 http://192.168.99.1
 ---
-![](imagenes/demo03.PNG)
+![](imagenes/demo03.png)
 ***
 
